@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Main{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        float num1=sc.nextFloat();
+        float num2=sc.nextFloat();
+        System.out.printf("Square Root of first number: %.1f\n",Math.sqrt(num1));
+        System.out.printf("First number raised to the power of second number: %.1f\n",Math.pow(num1,num2));
+        System.out.printf("Absolute value of first number: %.1f\n",Math.abs(num1));
+        System.out.printf("Absolute value of second number: %.1f\n",Math.abs(num2));
+    }
+}
