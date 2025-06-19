@@ -15,7 +15,7 @@ The focus is on building logic, improving problem-solving skills, and writing cl
 
 ## Language Used
 
-- Java only
+- Java 
 
 ---
 
